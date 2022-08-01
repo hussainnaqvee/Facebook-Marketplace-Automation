@@ -1,4 +1,3 @@
 *.exe
 __pycache__/
-*.md
 *.csv
